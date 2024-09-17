@@ -12,3 +12,5 @@ The humans fight by deploying different types of Anti-Titan weapons in order to 
 In our case the base we need to protect is the Utopia District Walls.
 
 2 - Endless: it means that the game will have no winning condition and the player will keep playing and defeat as many enemies as possible.
+
+# Check Project Description
